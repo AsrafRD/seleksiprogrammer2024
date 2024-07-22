@@ -40,7 +40,10 @@ Instruksi pada hari H:
 - Buat branch sesuai nama masing-masing. boleh nama singkat.
 - Repository tersebut adalah repository codeigniter versi 3, silakan buat CRUD menggunakan mysql dengan struktur tabel sebagai berikut :
 
-struktur tabel patients
+*********
+struktur tabel patients:
+*********
+
 - id INT
 - name VARCHAR 300
 - gender ENUM('L', 'P')
