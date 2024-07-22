@@ -42,10 +42,10 @@ Instruksi pada hari H:
 
 struktur tabel patients
 
- ```sh
+ ``sh
 id INT
 name VARCHAR 300
 gender ENUM('L', 'P')
 address TEXT
-
+``
 
