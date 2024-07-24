@@ -62,4 +62,9 @@ struktur tabel patients
 - doctor_name VARCHAR 300
 
 
-- Jika sudah selesai atau waktu sudah habis harap di push dari branch anda
+
+*********
+Jika sudah selesai atau waktu sudah habis harap di push dari branch anda
+*********
+
+
