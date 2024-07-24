@@ -59,5 +59,5 @@ struktur tabel patients
 - tanggal_daftar datetime
 - tanggal_mulai_periksa datetime
 - tanggal_selesai_periksa datetime
-- doctor_name VARCHQR 300
+- doctor_name VARCHAR 300
 
