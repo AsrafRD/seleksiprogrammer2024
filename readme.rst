@@ -37,7 +37,7 @@ Instruksi pada hari H:
 *********
 
 - Clone git@github.com:tantos/SeleksiProgrammer2024.git
-- Jika sudah selesai atau waktu sudah habis harap di push dari branch anda
+
 - Buat branch sesuai nama masing-masing. boleh nama singkat.
 - Repository tersebut adalah repository codeigniter versi 3, silakan buat CRUD menggunakan mysql dengan struktur tabel sebagai berikut :
  
@@ -61,3 +61,5 @@ struktur tabel patients
 - tanggal_selesai_periksa datetime
 - doctor_name VARCHAR 300
 
+
+- Jika sudah selesai atau waktu sudah habis harap di push dari branch anda
