@@ -51,9 +51,10 @@ struktur tabel patients
 - address TEXT
 
 
-struktur tabel patients
+struktur tabel visits
 
 - id INT
+- patient_id INT
 - name VARCHAR 300
 - clinic_name VARCHAR 300
 - tanggal_daftar datetime
